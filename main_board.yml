@@ -1,0 +1,25 @@
+setting:
+  priority: 1
+  advanced: false
+
+# Scoreboard criteria, see the wiki for more information.
+criteria:
+  default-permissions:
+    type: PERMISSION
+    permission: "kiteboard.group.default"
+    default: true
+
+# Scoreboard content, configured simply
+# Adding "100|" sets the refresh rate for this line.
+content:
+  - "&e&lTabel"
+  - "&8&m--------------------------"
+  - "&c&l» &d&lPlayer:"
+  - "&7{player}"
+  - ""
+  - "&e&l» &c&lNews:"
+  - "2|&7<scroll>Tekst</scroll>"
+  - ""
+  - "&e&l» &c&lAbout:"
+  - ""
+  - "&8&m--------------------------"
