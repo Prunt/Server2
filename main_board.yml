@@ -12,14 +12,14 @@ criteria:
 # Scoreboard content, configured simply
 # Adding "100|" sets the refresh rate for this line.
 content:
-  - "&e&lTabel"
-  - "&8&m--------------------------"
-  - "&c&l» &d&lPlayer:"
-  - "&7{player}"
+  - "&c&lFactions &8❘ &cStatistika"
+  - "&8&m───────────────"
+  - "&8» &cMängutunnid "
+  - "&f{playtime}"
   - ""
-  - "&e&l» &c&lNews:"
-  - "2|&7<scroll>Tekst</scroll>"
+  - "&8» &cUudised"
+  - "2|&f<scroll>Kandideerimine avatud</scroll>"
   - ""
-  - "&e&l» &c&lAbout:"
-  - ""
-  - "&8&m--------------------------"
+  - "&8» &cRõõmusõnum"
+  - "&fPõnevaid elamusi!"
+  - "&8&m───────────────"
